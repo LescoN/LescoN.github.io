@@ -1,0 +1,59 @@
+script {
+    display: none;
+}
+title {
+    display: none;
+}
+ step,
+ table{
+  background-image: url(hdf.jpg);
+    opacity: 0.85;
+    font-family: "Source Sans Pro",Arial,sans-serif;
+	font-weight: 300;
+	height: 100%;
+	line-height: 1.5;
+	position: relative;
+}
+/*step{
+	text-align: center;
+	display: block;
+	background: #f0f8ff linear-gradient(to bottom, #ffffff, #cc99ff) repeat-x scroll 0 0;
+    border: 1px solid #ddd;
+	color: black; 
+}*/
+*{
+	display: block;
+}
+blc{
+	display: block;
+	text-align: center;
+	font-size: 18px;
+}
+step{
+	text-align: center;
+	display: block;
+	background: #f0f8ff linear-gradient(to bottom, #ffffff, #cc99ff) repeat-x scroll 0 0;
+    border: 1px solid #ddd;
+	color: black; 
+	display:inline-table;
+	width: 200px;
+	margin-left: 2px;
+	border: 1px solid #ddd;
+	transition: all 1s ease 0s;
+	padding: 2px;
+	height: 200px;
+	/*overflow: hidden;*/
+}
+table1{
+	background: linear-gradient(to bottom, #cdcdcd, #008800) repeat-x scroll 0 0;
+    border: 3px solid #ddd;
+	display: block;
+    border-radius: 5px;
+    margin: 5em auto;
+    max-width: 850px;
+    min-height: 600px;
+    overflow: hidden;
+    position: relative;
+    transition: all 1s ease 0s;
+    padding: 5px;
+}
