@@ -1,3 +1,9 @@
+script {
+    display: none;
+}
+title {
+    display: none;
+}
  step,
  table{
   background-image: url(hdf.jpg);
@@ -35,6 +41,7 @@ step{
 	border: 1px solid #ddd;
 	transition: all 1s ease 0s;
 	padding: 2px;
+	height: 200px;
 	/*overflow: hidden;*/
 }
 table1{

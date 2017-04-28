@@ -1,0 +1,29 @@
+<html> 
+	<head> 
+		<title>XML</title> 
+		<link rel="stylesheet" href="style.css"> 
+	</head> 
+	<body> 
+		<script type="text/javascript"> 
+			function file_get_contents( url ) { // Reads file into a string
+			var req = null; 
+			try { req = new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) { 
+			try { req = new ActiveXObject("Microsoft.XMLHTTP"); } catch (e) { 
+			try { req = new XMLHttpRequest(); } catch(e) {} 
+			} 
+			} 
+			if (req == null) throw new Error('XMLHttpRequest not supported'); 
+			
+			req.open("GET", url, false); 
+			req.send(null); 
+			
+			return req.responseText; 
+			}
+		
+
+	
+		document.write(file_get_contents('https://lescon.github.io/xml/погодаcss.xml')); 
+		</script> 
+		
+	</body> 
+</html>
