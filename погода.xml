@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<weather created="eurometeo.ru" date="2017-04-27 18:00:00">
+<city id="ukraina/kiyvska-oblast/kiyiv">
+	<table>
+		<country>ukraina/kiyvska-oblast</country>
+		<cityname>Киев</cityname>
+		<cityname2>в Киеве</cityname2>
+		<citytime>2017-04-27 18:00:00</citytime>
+		<step>
+			<datetime>2017-04-27 05:00:00</datetime>
+			<pressure>752.16</pressure> 
+			<temperature>8.12</temperature>
+			<humidity>30</humidity>
+			<cloudcover>34</cloudcover> 
+			<windspeed>4.54</windspeed>
+			<windgust>12.28</windgust>
+			<winddir>89</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-27 11:00:00</datetime>
+			<pressure>751.96</pressure> 
+			<temperature>18.61</temperature>
+			<humidity>27</humidity>
+			<cloudcover>31</cloudcover> 
+			<windspeed>6.76</windspeed>
+			<windgust>11.27</windgust>
+			<winddir>81</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-27 17:00:00</datetime>
+			<pressure>751.04</pressure> 
+			<temperature>19.62</temperature>
+			<humidity>27</humidity>
+			<cloudcover>16</cloudcover> 
+			<windspeed>5.99</windspeed>
+			<windgust>11.19</windgust>
+			<winddir>80</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-27 23:00:00</datetime>
+			<pressure>752.52</pressure> 
+			<temperature>12.01</temperature>
+			<humidity>30</humidity>
+			<cloudcover>20</cloudcover> 
+			<windspeed>4.24</windspeed>
+			<windgust>13.02</windgust>
+			<winddir>86</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-28 05:00:00</datetime>
+			<pressure>752.25</pressure> 
+			<temperature>8.14</temperature>
+			<humidity>34</humidity>
+			<cloudcover>8</cloudcover> 
+			<windspeed>3.68</windspeed>
+			<windgust>9.82</windgust>
+			<winddir>324</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-28 11:00:00</datetime>
+			<pressure>751.69</pressure> 
+			<temperature>19.50</temperature>
+			<humidity>24</humidity>
+			<cloudcover>16</cloudcover> 
+			<windspeed>6.20</windspeed>
+			<windgust>10.53</windgust>
+			<winddir>326</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-28 17:00:00</datetime>
+			<pressure>750.53</pressure> 
+			<temperature>20.31</temperature>
+			<humidity>23</humidity>
+			<cloudcover>3</cloudcover> 
+			<windspeed>5.07</windspeed>
+			<windgust>9.36</windgust>
+			<winddir>360</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-28 23:00:00</datetime>
+			<pressure>750.87</pressure> 
+			<temperature>12.09</temperature>
+			<humidity>21</humidity>
+			<cloudcover>4</cloudcover> 
+			<windspeed>3.84</windspeed>
+			<windgust>12.33</windgust>
+			<winddir>353</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-29 05:00:00</datetime>
+			<pressure>750.18</pressure> 
+			<temperature>8.93</temperature>
+			<humidity>19</humidity>
+			<cloudcover>28</cloudcover> 
+			<windspeed>4.13</windspeed>
+			<windgust>11.32</windgust>
+			<winddir>340</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-29 11:00:00</datetime>
+			<pressure>749.83</pressure> 
+			<temperature>20.19</temperature>
+			<humidity>22</humidity>
+			<cloudcover>15</cloudcover> 
+			<windspeed>6.26</windspeed>
+			<windgust>9.99</windgust>
+			<winddir>350</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-29 17:00:00</datetime>
+			<pressure>748.91</pressure> 
+			<temperature>21.41</temperature>
+			<humidity>27</humidity>
+			<cloudcover>9</cloudcover> 
+			<windspeed>4.70</windspeed>
+			<windgust>8.51</windgust>
+			<winddir>352</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+		<step>
+			<datetime>2017-04-29 23:00:00</datetime>
+			<pressure>750.38</pressure> 
+			<temperature>11.83</temperature>
+			<humidity>26</humidity>
+			<cloudcover>2</cloudcover> 
+			<windspeed>2.74</windspeed>
+			<windgust>7.94</windgust>
+			<winddir>338</winddir>
+			<precipitation>0.00</precipitation>
+		</step>
+	</table>
+</city>
+</weather>

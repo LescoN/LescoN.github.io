@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Лаба&#8470;3</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script type="text/x-mathjax-config">
+		  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+		</script>
+		<script type="text/javascript" async
+		  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+		</script>
+		<style>
+		h1 {text-align:center}
+		h2 {
+		  font-weight: bold;
+		  background-color: #ffff99;
+		  padding: .2em .5em;
+		  margin-top: 1.5em;
+		  border-top: 3px solid #ffff00;
+		  text-align: center;
+		}
+		h3 {
+			font-weight: bold;
+		  background-color: #ffff99;
+		  padding: .2em .5em;
+		  margin-top: 1.5em;
+		  border-top: 3px solid #ffff00;
+		  border-bottom: 2px solid #0000cc;
+		  text-align: center;
+		}
+		</style>
+	</head>
+	<body>
+		<div class="header" style="background-color: #cdcdcd"></div>
+		<h1>Подборка красивых (и не очень) по мнению математиков формул</h1>
+
+		<blockquote>
+
+		<h2>Простенькая формула</h2>
+
+		<p>
+			$$f(x) = \frac{A_0}{2} + \sum \limits_{n=1}^{\infty} A_n \cos \left( \frac{2 n \pi x}{\nu} - \alpha_n \right)$$
+		</p>
+
+		<h2>Степени и индексы</h2>
+
+		<p>
+			$$a^{10} + b_{10} = c^{10}$$
+		</p>
+
+		<h2>Дроби</h2>
+
+		<p>
+			$$\frac{(a+b )^2}{4} - \frac{(a-b )^2}{4} = ab $$
+		</p>
+
+		<h2>Интегралы</h2>
+
+		<p>
+			$$\iiint_{x^2 + y^2 + z^2 = 1} f(x, y, z) dx dy dz$$
+		</p>
+		<h2>Задание:</h2>
+		<br>
+		Найти сумму ряда:
+		<p>$${\sum_{{n}={0}}^{{\infty}}{54 \frac{1}{4+5 n+{{n}^{2}}}}}$$</p>
+		<hr>
+		<p>
+			Решение:
+		</p>
+		<p>
+			$$S = {\sum_{{n}={0}}^{{\infty}}{54 \frac{1}{4+5 n+{{n}^{2}}}}} = {{18}\cdot {{\sum_{{n}={0}}^{{\infty}}\left({{{\frac{1}{1+n}}-{\frac{1}{4+n}}}}\right)}}}$$
+		</p>
+		<p>Найдем сумму первых \(n\) елементов ряда:<span>$${\sum_{{n}={0}}^{{\infty}}\left({{{\frac{1}{1+n}}-{\frac{1}{4+n}}}}\right)}$$</span></p>
+		<p>
+			$$S = {{{{{{{{{{{{1}-{\frac{1}{4}}}}+{{{\frac{1}{2}}-{\frac{1}{5}}}}}}+{{{\frac{1}{3}}-{\frac{1}{6}}}}}}+{{{\frac{1}{4}}-{\frac{1}{7}}}}}}+{{{\frac{1}{5}}-{\frac{1}{8}}}}}}+{{{\cdots}+{{{{{{{{{{{\frac{1}{-3+n}}-{\frac{1}{n}}}}+{{{\frac{1}{-2+n}}-{\frac{1}{1+n}}}}}}+{{{\frac{1}{-1+n}}-{\frac{1}{2+n}}}}}}+{{{\frac{1}{n}}-{\frac{1}{3+n}}}}}}+{{{\frac{1}{1+n}}-{\frac{1}{4+n}}}}}}}}} = $$
+			$${{{{{{1}+{\frac{1}{2}}}}+{\frac{1}{3}}}}-\left({{{\frac{1}{2+n}}+{{{\frac{1}{3+n}}+{\frac{1}{4+n}}}}}}\right)} = $$
+			$$\frac{11}{6}-\frac{1}{2+n}-\frac{1}{3+n}-\frac{1}{4+n}$$
+		</p>
+		<br>
+		<p>
+			$${{{\sum_{{n}={0}}^{{\infty}}\left({{{\frac{1}{1+n}}-{\frac{1}{4+n}}}}\right)}}={{{{\lim_{{n}\to {+\infty}}\left({{S}_{{n} }}\right)}}={{\lim_{{n}\to {+\infty}}\left({\frac{11}{6}-\frac{1}{2+n}-\frac{1}{3+n}-\frac{1}{4+n}}\right)}}}}}$$
+		</p>
+		<p>$${\lim_{{n}\to {+\infty}}\left({\frac{11}{6}-\frac{1}{2+n}-\frac{1}{3+n}-\frac{1}{4+n}}\right)} = \frac{11}{6}$$</p>
+		<br>
+		<p>$${{S}={{{{{18}\cdot {\frac{11}{6}}}}={33}}}}$$</p>
+		<hr>
+		<h3>Ответ:
+		<p>$${{S}={33}}$$</p>
+		</h3>
+		</blockquote>
+	</body>
+</html>

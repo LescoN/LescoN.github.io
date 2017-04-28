@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<weather created="eurometeo.ru" date="2017-04-27 18:00:00">
+<city id="ukraina/kiyvska-oblast/kiyiv">
+	<table>
+		<table1>
+			<blc>
+				<country>Украина</country>
+				<cityname>Киев</cityname>
+				<citytime>2017-04-27 18:00:00</citytime>		
+			</blc>
+			<table2>
+					<step>
+						<datetime>2017-04-27 05:00:00</datetime>
+						<pressure>Давление 752.16</pressure> 
+						<temperature>Температура 8.12</temperature>
+						<humidity>Влажность 30</humidity>
+						<cloudcover>Облачность 34</cloudcover> 
+						<windspeed>Скорость ветра 4.54</windspeed>
+						<windgust>Порыв ветра 12.28</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-27 11:00:00</datetime>
+						<pressure>Давление 751.96</pressure> 
+						<temperature>Температура 18.61</temperature>
+						<humidity>Влажность 27</humidity>
+						<cloudcover>Облачность 31</cloudcover> 
+						<windspeed>Скорость ветра 6.76</windspeed>
+						<windgust>Порыв ветра 11.27</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-27 17:00:00</datetime>
+						<pressure>Давление 751.04</pressure> 
+						<temperature>Температура 19.62</temperature>
+						<humidity>Влажность 27</humidity>
+						<cloudcover>Облачность 16</cloudcover> 
+						<windspeed>Скорость ветра 5.99</windspeed>
+						<windgust>Порыв ветра 11.19</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-27 23:00:00</datetime>
+						<pressure>Давление 752.52</pressure> 
+						<temperature>Температура 12.01</temperature>
+						<humidity>Влажность 30</humidity>
+						<cloudcover>Облачность 20</cloudcover> 
+						<windspeed>Скорость ветра 4.24</windspeed>
+						<windgust>Порыв ветра 13.02</windgust>
+						<precipitation>Атмосферные осадки0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-28 05:00:00</datetime>
+						<pressure>Давление 752.25</pressure> 
+						<temperature>Температура 8.14</temperature>
+						<humidity>Влажность 34</humidity>
+						<cloudcover>Облачность 8</cloudcover> 
+						<windspeed>Скорость ветра 3.68</windspeed>
+						<windgust>Порыв ветра 9.82</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-28 11:00:00</datetime>
+						<pressure>Давление 751.69</pressure> 
+						<temperature>Температура 19.50</temperature>
+						<humidity>Влажность 24</humidity>
+						<cloudcover>Облачность 16</cloudcover> 
+						<windspeed>Скорость ветра 6.20</windspeed>
+						<windgust>Порыв ветра 10.53</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-28 17:00:00</datetime>
+						<pressure>Давление 750.53</pressure> 
+						<temperature>Температура 20.31</temperature>
+						<humidity>Влажность 23</humidity>
+						<cloudcover>Облачность 3</cloudcover> 
+						<windspeed>Скорость ветра 5.07</windspeed>
+						<windgust>Порыв ветра 9.36</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-28 23:00:00</datetime>
+						<pressure>Давление 750.87</pressure> 
+						<temperature>Температура 12.09</temperature>
+						<humidity>Влажность 21</humidity>
+						<cloudcover>Облачность 4</cloudcover> 
+						<windspeed>Скорость ветра 3.84</windspeed>
+						<windgust>Порыв ветра 12.33</windgust>
+						<precipitation>Атмосферные осадки0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-29 05:00:00</datetime>
+						<pressure>Давление 750.18</pressure> 
+						<temperature>Температура 8.93</temperature>
+						<humidity>Влажность 19</humidity>
+						<cloudcover>Облачность 28</cloudcover> 
+						<windspeed>Скорость ветра 4.13</windspeed>
+						<windgust>Порыв ветра 11.32</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-29 11:00:00</datetime>
+						<pressure>Давление 749.83</pressure> 
+						<temperature>Температура 20.19</temperature>
+						<humidity>Влажность 22</humidity>
+						<cloudcover>Облачность 15</cloudcover> 
+						<windspeed>Скорость ветра 6.26</windspeed>
+						<windgust>Порыв ветра 9.99</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-29 17:00:00</datetime>
+						<pressure>Давление 748.91</pressure> 
+						<temperature>Температура 21.41</temperature>
+						<humidity>Влажность 27</humidity>
+						<cloudcover>Облачность 9</cloudcover> 
+						<windspeed>Скорость ветра 4.70</windspeed>
+						<windgust>Порыв ветра 8.51</windgust>
+						<precipitation>Атмосферные осадки0.00</precipitation>
+					</step>
+					<step>
+						<datetime>2017-04-29 23:00:00</datetime>
+						<pressure>Давление 750.38</pressure> 
+						<temperature>Температура 11.83</temperature>
+						<humidity>Влажность 26</humidity>
+						<cloudcover>Облачность 2</cloudcover> 
+						<windspeed>Скорость ветра 2.74</windspeed>
+						<windgust>Порыв ветра 7.94</windgust>
+						<precipitation>Атмосферные осадки 0.00</precipitation>
+					</step>
+			</table2>
+		</table1>
+	</table>
+</city>
+</weather>
